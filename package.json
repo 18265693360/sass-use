@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "amfe-flexible": "^2.2.1",
+    "axios": "^0.18.0",
+    "connect-mongoose": "^0.0.2",
+    "html5shiv": "^3.7.3",
+    "jquery": "^3.3.1",
+    "mint-ui": "^2.2.13",
+    "moment": "^2.24.0",
+    "normalize.css": "^8.0.1",
+    "qiniu": "^7.2.1",
+    "vue": "^2.6.9"
+  },
+  "devDependencies": {
+    "node-sass": "^4.11.0",
+    "sass-loader": "^7.1.0",
+    "webpack-cli": "^3.3.0"
+  }
+}
